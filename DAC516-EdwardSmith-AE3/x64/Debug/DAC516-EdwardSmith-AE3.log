@@ -1,0 +1,5 @@
+﻿  level.cpp
+f:\dac516-edwardsmith-ae3\dac516-edwardsmith-ae3\dac516-edwardsmith-ae3\entity.h(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\dac516-edwardsmith-ae3\dac516-edwardsmith-ae3\dac516-edwardsmith-ae3\entity.h(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DAC516-EdwardSmith-AE3.vcxproj -> F:\DAC516-EdwardSmith-AE3\DAC516-EdwardSmith-AE3\DAC516-EdwardSmith-AE3\x64\Debug\DAC516-EdwardSmith-AE3.exe
+  DAC516-EdwardSmith-AE3.vcxproj -> F:\DAC516-EdwardSmith-AE3\DAC516-EdwardSmith-AE3\DAC516-EdwardSmith-AE3\x64\Debug\DAC516-EdwardSmith-AE3.pdb (Partial PDB)
